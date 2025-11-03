@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'1. Desarrollo de aplicaciones y análisis de datos en IOT'")
+  BannerInterno(:subTitulo="'1. Gestión de cambios'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
 
@@ -19,11 +19,12 @@
 
     p(data-aos="fade-up") A continuación, se presenta un video que expone en detalle el proceso de gestión de cambios en el desarrollo de software, abordando sus etapas clave, herramientas utilizadas y su relevancia para garantizar la calidad y estabilidad de los sistemas.
     
+    
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/9cqLwqWDCzs?si=F1b2M6SlLRnGqFf9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/t9SHG8kkMQ4?si=I2dcl4XZHdmaV4sz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     #t_1_2.titulo-segundo(data-aos="flip-up")
       h2 #[span 1.2] Tipos de cambios en proyectos de software
@@ -218,6 +219,8 @@
               p Plataforma especializada alineada con ITIL; permite programar ventanas de cambio, enviar notificaciones y hacer análisis de impacto.
               p #[b Ejemplo.] Antes de actualizar un sistema crítico de salud, se genera una solicitud formal con respaldo completo.
   
+
+    p(data-aos="fade-left") Estas herramientas son pilares fundamentales en el ciclo de vida del software moderno. Aseguran que cada modificación esté justificada, evaluada y documentada, incrementando la calidad del producto, reduciendo riesgos y mejorando la comunicación entre equipos multidisciplinarios. La elección adecuada de la herramienta dependerá del tamaño del proyecto, la metodología utilizada y los requisitos de control organizacional.
   
     #t_1_4.titulo-segundo(data-aos="flip-up")
       h2 #[span 1.4] Control y aprobación de cambios

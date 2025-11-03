@@ -6,7 +6,7 @@
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0
         .bg-color-5.tarjeta.p-3.h-100(data-aos="fade-left")
-          p(data-aos="fade-left") La Unidad de Fundamentos y Arquitectura de IoT constituye el cimiento conceptual y técnico sobre el cual construirá su comprensión del Internet de las Cosas como paradigma transformador de la ingeniería de software contemporánea. Esta unidad aborda los elementos esenciales que permiten que dispositivos físicos se conecten, comuniquen y colaboren para crear ecosistemas digitales inteligentes que están redefiniendo sectores como la salud, manufactura, agricultura y ciudades inteligentes. Su dominio de estos fundamentos le proporcionará las herramientas necesarias para diseñar, implementar y gestionar soluciones de software que aprovechen la convergencia entre el mundo físico y digital.
+          p(data-aos="fade-left") En el desarrollo de software, garantizar la integridad y el control de los artefactos del proyecto a lo largo del tiempo es esencial para mantener la calidad, la trazabilidad y la coherencia del producto final. La gestión de la configuración responde a esta necesidad al establecer procesos, estándares y herramientas que permiten identificar, controlar y documentar los componentes del software y sus posibles modificaciones. Esta unidad tiene como objetivo dotar al estudiante de los conocimientos y habilidades necesarios para gestionar eficazmente los elementos que conforman un sistema de software durante todo su ciclo de vida.
           figure.d-flex.justify-content-end
             img(src="@/assets/curso/intro/1.svg" data-aos="zoom-in", style="max-width: 124px")
     
@@ -15,7 +15,7 @@
           img(src="@/assets/curso/intro/2.png" data-aos="zoom-in")
       .col-lg-4.mb-3.mb-lg-0
         .bg-color-1.tarjeta.p-3.h-100(data-aos="fade-left")
-          p(data-aos="fade-left").mb-5 En el desarrollo de software, garantizar la integridad y el control de los artefactos del proyecto a lo largo del tiempo es esencial para mantener la calidad, la trazabilidad y la coherencia del producto final. La gestión de la configuración responde a esta necesidad al establecer procesos, estándares y herramientas que permiten identificar, controlar y documentar los componentes del software y sus posibles modificaciones. Esta unidad tiene como objetivo dotar al estudiante de los conocimientos y habilidades necesarios para gestionar eficazmente los elementos que conforman un sistema de software durante todo su ciclo de vida.
+          p(data-aos="fade-left").mb-5 Uno de los ejes fundamentales que se abordará es la gestión de cambios, entendida como el proceso formal para recibir, evaluar, aprobar o rechazar las solicitudes de modificación que surgen en un proyecto. Los estudiantes aprenderán a establecer procedimientos adecuados para controlar el impacto de estos cambios y evitar desviaciones que afecten la calidad o el cronograma del desarrollo.
 
     
     .bg-full-width.bg-color-17.mb-0

@@ -133,32 +133,32 @@ export default {
   referencias: [
     {
       referencia:
-        'Guillamón Morales, A. (2013). Guía práctica para elaborar planes de emergencia y simulacros: (1 ed.). Panamericana Formas e Impresos S.A.',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/51873?page=1',
+        'Guillamón Morales, A. (2013). Manual desarrollo de elementos software para gestión de sistemas: ( ed.). Editorial CEP, S.L.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/50603',
     },
     {
       referencia:
-        'Pérez Martínez, E. (2015). Documentos técnicos de instalaciones en la edificación. DTIE 20.01 Libro de edificio e instrucciones de funcionamiento y mantenimiento: (1 ed.). Asociación Técnica Española de Climatización y Refrigeración (ATECYR).',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/42354',
+        'Pérez Martínez, E. (2015). Desarrollo de aplicaciones mediante el Framework de Spring: ( ed.). RA-MA Editorial.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/107207',
     },
     {
-      referencia: 'Chacon, S., & Straub, B. (2014). Pro Git. Apress.',
-      link: 'https://git-scm.com/book/en/v2',
-    },
-    {
-      referencia:
-        "Smart, J. F. (2011). Jenkins: The Definitive Guide. O'Reilly Media.",
-      link: '',
+      referencia: 'Chacon, S., & Straub, B. (2014). Pro Git (2.ª ed.). Apress.',
+      link: 'https://git-scm.com/book/es/v2',
     },
     {
       referencia:
-        'Naik, P., & Naik, G. (2024). DevOps with Jenkins X. Packt Publishing.',
-      link: '',
+        'Pérez Martínez, E. (2015). Desarrollo de aplicaciones mediante el Framework de Spring: ( ed.). RA-MA Editorial.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/107207',
+    },
+    {
+      referencia: 'Smart, J. F. (2011). Jenkins: The Definitive Guide. Apress.',
+      link: 'https://archive.org/details/jenkins',
     },
     {
       referencia:
-        'Ruiz, M. G. (2023). Gestión de proyectos de software. Ediciones ENI.',
-      link: '',
+        'Naik, P., & Naik, G. (2024). Mastering Jenkins Pipeline for Seamless Automation (From Development to Production). Shashwat Publication.',
+      link:
+        'https://www.researchgate.net/publication/382801641_Mastering_Jenkins_Pipeline_for_Seamless_Automation_From_Development_to_Production',
     },
   ],
   glosario: [

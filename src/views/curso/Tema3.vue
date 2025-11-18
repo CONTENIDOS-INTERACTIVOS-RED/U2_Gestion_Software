@@ -289,7 +289,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.raatti.net/~raatti/books/devops/pdf/learningcontinuousintegrationwithjenkins.pdf" target="_blank" rel="noopener noreferrer") Pathania, N. (2024). Learning Continuous Integration with Jenkins (3.ª ed.). Packt Publishing.
+              a(href="https://www.jenkins.io/doc/book/pipeline/" target="_blank" rel="noopener noreferrer") Proyecto Jenkins. (s.f.). Pipeline. Documentación Oficial de Jenkins.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
